@@ -1,4 +1,4 @@
 package goversion
 
 // MyVersion ...
-const MyVersion = "v2.0.0!!!"
+const MyVersion = "v3.0.0!!!"
